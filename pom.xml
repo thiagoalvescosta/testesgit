@@ -3,9 +3,8 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.mycompany.myapp</groupId>
     <artifactId>myapp</artifactId>
-    
     <packaging>war</packaging>
-    <name>automatic dependency generation</name>
+    <name>automatic asdasdasd dependency generation</name>
     <version>1.0-SNAPSHOT</version>
     <url>http://www.mycompany.com</url>
     <build>
@@ -13,15 +12,6 @@
         <resources>
             <resource>
                 <directory>asdasdas</directory>
-                <includes>
-                    <include>**</include>
-                </includes>
-                <excludes>
-                    <exclude>**/*.java</exclude>
-                </excludes>
-            </resource>
-            <resource>
-                <directory>czczxc</directory>
                 <includes>
                     <include>**</include>
                 </includes>
@@ -54,6 +44,6 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <project.cronospass.resource mimetype="folder/src">asdasdas</project.cronospass.resource>
-        <project.cronospass.resource mimetype="folder/src">czczxc</project.cronospass.resource>
+        <project.cronospass.resource mimetype="folder/regular">czczxc</project.cronospass.resource>
     </properties>
 </project>
