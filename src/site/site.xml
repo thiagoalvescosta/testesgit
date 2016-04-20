@@ -1,7 +1,7 @@
 <project name="${project.artifactId}">
 
   <body>
-    <menu name="Overview">
+    <menu name="Overview Jose">
       <item name="Introduction" href="index.html"/>
       <item name="FAQ" href="faq.html"/>
     </menu>
